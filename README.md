@@ -1,10 +1,10 @@
 # expense_tracker
 
-A new Flutter project.
+A  Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application.Very basic app
 
 A few resources to get you started if this is your first Flutter project:
 
